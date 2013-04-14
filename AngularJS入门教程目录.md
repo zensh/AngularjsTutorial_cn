@@ -1,14 +1,3 @@
-AngularjsTutorial_cn
-====================
-
-AngularJS入门教程——[AngularJS中文社区](http://angularjs.cn/)提供
-
-**AngularJS中文社区**是一个专业的AngularJS中文开源技术社区，致力于AngularJS的技术学习、交流和研究。
-
-我们非常欢迎更多对AngularJS感兴趣的朋友[加入](http://angularjs.cn/register)！
-
-### AngularJS入门教程目录
-
 1. [快速开始](http://angularjs.cn/A002 "AngularJS快速开始")
 2. [导言和准备](http://angularjs.cn/A00g "AngularJS入门教程：导言和准备")
 3. [引导程序](http://angularjs.cn/A003 "AngularJS入门教程00：引导程序")
