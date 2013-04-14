@@ -14,7 +14,7 @@ AngularJS入门教程——[AngularJS中文社区](http://angularjs.cn/)提供
 3. [引导程序](http://angularjs.cn/A003 "AngularJS入门教程00：引导程序")
 4. [静态模板](http://angularjs.cn/A004 "AngularJS入门教程01：静态模板")
 5. [AngularJS模板](http://angularjs.cn/A005 "AngularJS入门教程02：AngularJS模板")
-6. [迭代器过滤](http://angularjs.cn/A006 "AngularJS入门教程03：迭代器过滤")
+6. [迭代器过滤](http://angularjs.cn/A006 "AngularJS入门教程03：迭代器")
 7. [双向绑定](http://angularjs.cn/A007 "AngularJS入门教程04：双向绑定")
 8. [XHR和依赖注入](http://angularjs.cn/A008 "AngularJS入门教程05：XHR和依赖注入")
 9. [链接与图片模板](http://angularjs.cn/A009 "AngularJS入门教程06：链接与图片模板")
