@@ -7,6 +7,25 @@ AngularJS入门教程——[AngularJS中文社区](http://angularjs.cn/)提供
 
 我们非常欢迎更多对AngularJS感兴趣的朋友[加入](http://angularjs.cn/register)！
 
+-----
+
+1、 **angularjs**
+
+**新浪微博：**[@ZENSH严清][1] **任务：**管理AngularJS中文社区，初步校核翻译文档；
+
+2、 **rainer_H**
+
+**新浪微博：**[@l4future][2] **任务：**翻译“Dveloper Guide”部分；
+
+3、**furtherLee**
+
+**新浪微博：**[@速冻沙漠][3] **任务：**翻译“Angular Tutorial”部分。
+
+
+ [1]: http://weibo.com/zensh
+ [2]: http://weibo.com/u/1856964593
+ [3]: http://weibo.com/u/1901891651
+
 ### AngularJS入门教程目录
 
 1. [快速开始](http://angularjs.cn/A002 "AngularJS快速开始")
